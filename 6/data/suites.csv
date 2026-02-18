@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3256","should be able to add a new todo","chromium","Wed Feb 18 21:58:37 UTC 2026","passed","Wed Feb 18 21:58:40 UTC 2026","","todo.spec.ts","",""
+"","2032","should be able to register to our application","chromium","Wed Feb 18 21:58:44 UTC 2026","passed","Wed Feb 18 21:58:46 UTC 2026","","user.spec.ts","",""
+"","3242","should be able to delete a todo","chromium","Wed Feb 18 21:58:40 UTC 2026","passed","Wed Feb 18 21:58:44 UTC 2026","","todo.spec.ts","",""
