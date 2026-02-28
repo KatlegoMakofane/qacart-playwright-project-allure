@@ -39,3 +39,6 @@ test("should be able to delete a todo", async({page ,request , context})=>{
 
 test("dummy test", async({page ,request , context})=>{
 })
+
+test("Newly added test", async({page ,request , context})=>{
+})
